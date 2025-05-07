@@ -1,1 +1,3 @@
 selenium==4.20.0  # Example version
+
+#more functionality can be done on demand
